@@ -10,6 +10,7 @@ public class Solution {
 
         for(int i=0; i<input.length;i++){
             if(input[i].length() == 1) {
+                countHoles = 0;
                 count(input[i]);
                 System.out.println("Input: "+ input[i] +" Count: " + countHoles);
             } else {
