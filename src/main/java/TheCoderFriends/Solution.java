@@ -1,4 +1,4 @@
-package Winner;
+package TheCoderFriends;
 
 public class Solution {
 
